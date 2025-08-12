@@ -1,0 +1,7 @@
+numpy
+pandas
+torch>=2.0
+matplotlib
+tqdm
+networkx
+jupyter
